@@ -22,3 +22,8 @@ A Full-Stack Data Analytics project evaluating the short-term rental housing mar
 * "02_load_to_sql.py" - Python extraction script.
 * "03_data_transformation.sql" - Production-ready SQL view queries.
 * "Stockholm_Housing_Market_Analysis.pbix" - Power BI Dashboard source file.
+
+## BUGS
+   I've noticed that my project has 2 bugs
+   1) The first one is the apartment from Amsterdam that lists as an apartment open for the renting in Sweden. I didnt managed to fix this bug due to the lack of experience in creasting pet-projects
+   2) Second bug - when you try to click the dots in POWER BI, it doesnt shows apartments from the certain district, it just summarize the cost of all apartments for rent in the distict. I also haven't managed to fix it too(
